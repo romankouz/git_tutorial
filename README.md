@@ -17,8 +17,6 @@ Then, the initialization is as follows:
 ```
 git clone https://github.com/(your github username)/git_tutorial
 ```
-4. Type: git remote add origin https://github.com/(your github username)/git_tutorial (this connects your local folder to this Github repository)
-
 
 # The Basics
 
