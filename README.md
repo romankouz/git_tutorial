@@ -64,7 +64,7 @@ to make sure your local repo is named main and not master. All other steps shoul
  - git rebase
  - git diff <branch 1><branch 2>
 
-Let's try and change this text on a different branch: I'm currently on the main branch!
+Let's try and change this text on a different branch: I'm currently on the markdown_edit branch!
 
 ```
 git checkout -b markdown_edit # creates a new branch called markdown_edit
