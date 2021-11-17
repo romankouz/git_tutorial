@@ -1,6 +1,6 @@
 # call this file test_value.py
 
 def test_value():
-    assert 1 <= 3
+    assert 1 <= 1000
 
 
