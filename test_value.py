@@ -1,4 +1,4 @@
 # call this file test_value.py
 
 def test_value():
-    assert 3 <= 3
+    assert 4 <= 3
